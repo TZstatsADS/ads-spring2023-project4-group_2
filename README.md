@@ -5,7 +5,7 @@
 Term: Spring 2023
 
 + Team 2
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Learning fair representations (LFR) vs Maximizing fairness under accuracy constraints
 + Team members
 	+ Wen CHEN cw3229@columbia.edu
 	+ Haoyu HE hh2982@columbia.edu
